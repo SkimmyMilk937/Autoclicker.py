@@ -1,4 +1,4 @@
-"""Written by Nicolas Attefat
+"""Written by SkimmyMilk
 12/18/23
 Autoclicker application in python
 autoclicker.py
