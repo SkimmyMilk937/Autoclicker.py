@@ -1,0 +1,1 @@
+Autoclicker made using PyAutoGui🤷‍♂️
